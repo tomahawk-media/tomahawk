@@ -1,6 +1,7 @@
-# This project is essentially abandoned
-There is noone working on it.
-There isn't much sense in adding any new issues in the issue tracker unless you want to fix them yourself.
+# REVIVING TAMAHAWK
+
+This is basically just me trying to revive Tomahawk, I am working on setting everything up to compile new builds for Linux.
+Not sure when new builds will be online, hopefully soon.
 
 # WHAT TOMAHAWK IS
 
